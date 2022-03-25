@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**Siltal/Siltal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Siltal/Siltal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get me started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![](https://github.com/Siltal/GitHub-Stats-Visualization/blob/master/generated/languages.svg)
